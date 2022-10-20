@@ -1,2 +1,2 @@
 # Curso-Mobile-First-Project
- Projeto mobile first
+ Projeto HTML/CSS no formato "mobile first" feito no curso da Alura.
